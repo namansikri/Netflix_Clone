@@ -1,0 +1,17 @@
+{
+  "name": "netflix-clone-2.0-master",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Naman Sikri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {},
+  "description": ""
+}
